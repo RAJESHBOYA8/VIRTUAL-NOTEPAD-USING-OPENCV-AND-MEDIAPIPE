@@ -31,7 +31,7 @@ Adjustable Brush Size for drawing and erasing.
 
 
 
-git clone https://github.com/YourUsername/Virtual-Notepad-With-Eraser.git
+[git clone https://github.com/YourUsername/Virtual-Notepad-With-Eraser.git](https://github.com/RAJESHBOYA8/VIRTUAL-NOTEPAD-USING-OPENCV-AND-MEDIAPIPE)
 cd Virtual-Notepad-With-Eraser
 
 2. Create a virtual environment (Optional but recommended):
